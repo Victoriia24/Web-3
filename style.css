@@ -1,0 +1,48 @@
+body {
+	background: grey;
+}
+.wrap{
+	margin: 0px auto;
+	width: 800px;
+	height: 800px;
+	background-color: #F8F8FF;
+	border: 5px solid #8B4513;
+}
+.size {
+	width: 100px;
+	height: 100px;
+}
+.white {
+background: #FFF8DC;
+}
+.black {
+background: #8B4513;
+}
+.column-2{
+	margin-left: 100px;
+	margin-top: -800px;
+}
+.column-3{
+	margin-left: 200px;
+	margin-top: -800px;
+}
+.column-4{
+	margin-left: 300px;
+	margin-top: -800px;
+}
+.column-5{
+	margin-left: 400px;
+	margin-top: -800px;
+}
+.column-6{
+	margin-left: 500px;
+	margin-top: -800px;
+}
+.column-7{
+	margin-left: 600px;
+	margin-top: -800px;
+}
+.column-8{
+	margin-left: 700px;
+	margin-top: -800px;
+}
